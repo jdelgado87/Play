@@ -3,7 +3,7 @@
 //  Play
 //
 //  Created by Jose Delgado on 1/5/17.
-//  Copyright © 2017 Jose Delgado. All rights reserved.
+//  Copyright © 2017 Jose Delgado. All rights reserved..
 //
 
 import UIKit
